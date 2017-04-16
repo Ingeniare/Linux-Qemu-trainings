@@ -1,0 +1,5 @@
+# ignore linux and busybox dirs
+
+busybox-x86
+
+linux-x86-basic
