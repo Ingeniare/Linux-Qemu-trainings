@@ -1,4 +1,4 @@
-# ignore linux and busybox dirs
+# ignore linux and busybox non necessary and large folders
 
 busybox-1.26.2usybox-x86
 obj/busybox-x86
