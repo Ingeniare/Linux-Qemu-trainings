@@ -1,0 +1,1 @@
+cmd_fs/efivarfs/efivarfs.ko := ld -r -m elf_x86_64 -T /home/akrem/teeny-linux/linux-4.10.6/scripts/module-common.lds --build-id  -o fs/efivarfs/efivarfs.ko fs/efivarfs/efivarfs.o fs/efivarfs/efivarfs.mod.o ;  true

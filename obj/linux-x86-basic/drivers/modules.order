@@ -1,0 +1,2 @@
+kernel/drivers/thermal/x86_pkg_temp_thermal.ko
+kernel/drivers/crypto/virtio/virtio_crypto.ko

@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_blackfin_vga16.c := scripts/pnmtologo -t vga16 -n logo_blackfin_vga16 -o drivers/video/logo/logo_blackfin_vga16.c /home/akrem/teeny-linux/linux-4.10.6/drivers/video/logo/logo_blackfin_vga16.ppm

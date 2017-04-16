@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_superh_clut224.c := scripts/pnmtologo -t clut224 -n logo_superh_clut224 -o drivers/video/logo/logo_superh_clut224.c /home/akrem/teeny-linux/linux-4.10.6/drivers/video/logo/logo_superh_clut224.ppm

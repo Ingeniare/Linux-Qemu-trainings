@@ -1,0 +1,1 @@
+cmd_net/netfilter/xt_addrtype.ko := ld -r -m elf_x86_64 -T /home/akrem/teeny-linux/linux-4.10.6/scripts/module-common.lds --build-id  -o net/netfilter/xt_addrtype.ko net/netfilter/xt_addrtype.o net/netfilter/xt_addrtype.mod.o ;  true

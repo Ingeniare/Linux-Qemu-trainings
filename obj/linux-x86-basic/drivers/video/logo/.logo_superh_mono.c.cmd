@@ -1,0 +1,1 @@
+cmd_drivers/video/logo/logo_superh_mono.c := scripts/pnmtologo -t mono -n logo_superh_mono -o drivers/video/logo/logo_superh_mono.c /home/akrem/teeny-linux/linux-4.10.6/drivers/video/logo/logo_superh_mono.pbm

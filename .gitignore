@@ -1,0 +1,5 @@
+# ignore linux and busybox dirs
+
+busybox-1.26.2usybox-x86
+
+linux-4.10.6

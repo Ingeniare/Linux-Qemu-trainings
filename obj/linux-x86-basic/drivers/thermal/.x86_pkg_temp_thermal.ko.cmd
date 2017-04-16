@@ -1,0 +1,1 @@
+cmd_drivers/thermal/x86_pkg_temp_thermal.ko := ld -r -m elf_x86_64 -T /home/akrem/teeny-linux/linux-4.10.6/scripts/module-common.lds --build-id  -o drivers/thermal/x86_pkg_temp_thermal.ko drivers/thermal/x86_pkg_temp_thermal.o drivers/thermal/x86_pkg_temp_thermal.mod.o ;  true
